@@ -1,0 +1,27 @@
+## Descrição
+<!--- Descreva suas mudanças em detalhes -->
+
+## Motivação e contexto
+<!--- Porque essa mudança era necessária? Que problemas ela resolve? -->
+
+## Como essa mudança foi testada?
+- [ ] Emulador (Android)
+- [ ] Emulador (IOS)
+- [ ] Postman
+
+## Tipos de mudanças
+<!--- Que tipos de mudanças seu código implementa? Coloque um `x` em todas as caixas que se aplica: -->
+- [ ] Feature (Adiciona funcionalidade sem quebrar o código existente)
+- [ ] Bugfix (Corrige erro existente e deixa o código funcional)
+- [ ] Refactor (Modifica código funcional para melhora-lo)
+
+<!---Sessão pode ser removida caso não tenha nenhum erro corrigido -->
+### Erros corrigidos
+
+- 
+
+## Checklist:
+<!--- Passe por todos os pontos e coloque um `x` em todas as caixas que se aplicam. -->
+- [ ] Lint e testes passaram localmente com as minhas alterações.
+- [ ] Eu implementei testes para garantir que a minha correção é efetiva ou que minha feature funciona.
+- [ ] Eu atualizei a documentação de acordo (se aplicável).
